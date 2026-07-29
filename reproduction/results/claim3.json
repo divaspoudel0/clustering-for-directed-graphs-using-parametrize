@@ -1,0 +1,35 @@
+{
+  "claim": "Claim 3",
+  "datasets": [
+    {
+      "name": "Chain SBM",
+      "N": 600,
+      "t_optimal": "4",
+      "NMI": 0.9829929733076634,
+      "entropy_start": 1.2413236236330895e-08,
+      "entropy_end": 3737.9764597996154,
+      "has_clear_knee": "True",
+      "t_in_valid_range": "True"
+    },
+    {
+      "name": "Baseline DiSBM",
+      "N": 600,
+      "t_optimal": "5",
+      "NMI": 1.0,
+      "entropy_start": 1.2413236236330895e-08,
+      "entropy_end": 3810.6038609606835,
+      "has_clear_knee": "True",
+      "t_in_valid_range": "True"
+    },
+    {
+      "name": "Core-Periphery DiSBM",
+      "N": 450,
+      "t_optimal": "4",
+      "NMI": 0.9303710982668885,
+      "entropy_start": 6.978559770591701e-09,
+      "entropy_end": 2855.176425670108,
+      "has_clear_knee": "True",
+      "t_in_valid_range": "True"
+    }
+  ]
+}

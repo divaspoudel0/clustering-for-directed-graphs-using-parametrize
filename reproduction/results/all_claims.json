@@ -1,0 +1,22 @@
+{
+  "claim1": {
+    "claim": "Claim 1",
+    "sub-claims": [
+      {
+        "name": "Reversibility w.r.t. (nu + xi)",
+        "verified": "True",
+        "symmetry_error": 4.887197867256219e-06
+      },
+      {
+        "name": "Irreducibility for weakly connected digraphs",
+        "verified": "True",
+        "min_power_entry": 0.0004061671700710838
+      },
+      {
+        "name": "Preserves directionality information",
+        "verified": "True",
+        "relative_diff_from_sym": 0.13309911421378473
+      }
+    ]
+  }
+}
